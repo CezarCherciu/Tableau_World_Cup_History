@@ -3,7 +3,7 @@
 Link to the public Tableau presentation >> https://public.tableau.com/profile/cezar2951#!/vizhome/WorldCupHistory_15934126518120/Finalists?publish=yes
 Link to the public dataset used >> https://www.kaggle.com/abecklas/fifa-world-cup
 
-#Steps:
+# Steps:
 
 1. Find an idea >>
 I thought that football should be a more easy to approach field as it is probably one of the first points of contact with statistics while playing football manager and similar games as a kid.
@@ -14,7 +14,7 @@ I found the dataset on Kaggle that seemed to cantain data with potential connect
 3. Edit the dataset >>
 In order to obtain averages for KPI's such as attendance numbers or goals scored per match I had to edit the excel file so that the work in Tableau would come easily
 
-4. Vizualization >>
+4. Presentation >>
 The final Tableau work book contains:
 
 8 Worksheets Story
