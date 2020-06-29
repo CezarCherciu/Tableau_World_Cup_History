@@ -28,11 +28,10 @@ The final Tableau work book contains:
 - Finalist
 
 1 Story
--History
+- History
 
 5. Observations >>
 - On the Host Countries Worksheet, we don't see on the map the 2002 event as it was co-hosted by Japan and South Koreea 
 - Due to WW2, we don't have any Competitions held in 1942 and 1946
 - Germany appears as two different countries (West Germany and Germany after the reunification), which should be taken into account when looking at the number of titles won or final appearences
-- The average number of goals tends to decrease in time, signaling the change from a more romantic epoque of football where all players were focused on attacking and scoring goals to a more modern game with more focus on defence, tactics and organisation.  
-- 
+- The average number of goals tends to decrease in time, signaling the change from a more romantic epoque of football where all players were focused on attacking and scoring goals to a more modern game with more focus on defence, tactics and organisation.
