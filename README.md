@@ -17,7 +17,7 @@ In order to obtain averages for KPI's such as attendance numbers or goals scored
 4. Presentation >>
 The final Tableau work book contains:
 
-8 Worksheets Story
+  8 Worksheets 
 - Host Countries
 - Match Attendances
 - Average Match Attendance
@@ -27,7 +27,7 @@ The final Tableau work book contains:
 - World Cup Champions
 - Finalist
 
-1 Story
+  1 Story
 - History
 
 5. Observations >>
